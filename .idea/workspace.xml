@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e3cc6e0-5ae3-4e38-87cf-a3090db6889e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/1dawb-armas-de-fuego-LautaroKruck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/issuestore/5/3/53f5e47850f6669afb0e9592b3293371c343cf52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/issuestore/8/3/831e098b3d5e6d6ee3add3ecfc91ae1ff24b123e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/issuestore/8/b/8b54cc4aab8873a153e52970974f4b5f4a22aa9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/issuestore/9/1/913187387b0c260fd406af473e0c503f7f32e8d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/issuestore/9/f/9f2c0f693262c4ad3bee9256bfb7c3304c45a241" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/issuestore/a/1/a16769532a46333a46a3873b84c097a554248e8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/securityhotspotstore/5/3/53f5e47850f6669afb0e9592b3293371c343cf52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/securityhotspotstore/8/3/831e098b3d5e6d6ee3add3ecfc91ae1ff24b123e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/securityhotspotstore/8/b/8b54cc4aab8873a153e52970974f4b5f4a22aa9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/securityhotspotstore/9/1/913187387b0c260fd406af473e0c503f7f32e8d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/securityhotspotstore/9/f/9f2c0f693262c4ad3bee9256bfb7c3304c45a241" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/securityhotspotstore/a/1/a16769532a46333a46a3873b84c097a554248e8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/Armas_de_fuego.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/src/ArmaDeFuego.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/src/Bazooka.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/src/Pistola.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/src/Radio.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armas_de_fuego/src/Rifle.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2cMYQh3NAAFCl6DJOapotN6LZbP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/1dawb-armas-de-fuego-LautaroKruck/Armas_de_fuego"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3cc6e0-5ae3-4e38-87cf-a3090db6889e" name="Changes" comment="" />
+      <created>1707922900157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707922900157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
