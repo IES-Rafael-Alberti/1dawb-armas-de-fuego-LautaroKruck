@@ -1,4 +1,5 @@
 class Pistola(
+
     municion: Int ,
     tipoDeMunicion: String,
     override var danio: Int,

@@ -24,17 +24,26 @@ abstract class ArmaDeFuego (
 
     }
 
-    fun dispara(): String {
-        if (municion >= municionARestar){
-            municion -= municionARestar
-            return "${nombre.uppercase()} dispara. Munición restante: $municion"
+    fun dispara() {
+        if (municion < municionARestar) {
+            recarga()
+            if (municion < municionARestar) {
+                println("No hay suficiente munición para disparar.")
+                return
+            }
         }
+        municion -= municionARestar
+        println("${nombre.uppercase()} dispara. Munición restante: $municion")
     }
 
-    fun recarga(){
-        if (cantidadMunicionExtra >= municionARestar){
-            cantidadMunicionExtra -= municionARestar
-            municion += municionARestar
+    fun recarga() {
+        val municionARecargar = if (cantidadMunicionExtra >= municionARestar * 2) municionARestar * 2 else municionARestar
+        if (cantidadMunicionExtra >= municionARecargar) {
+            municion += municionARecargar
+            cantidadMunicionExtra -= municionARecargar
+            println("${nombre.uppercase()} se ha recargado. Munición actual: $municion")
+        } else {
+            println("No hay suficiente munición extra para recargar.")
         }
     }
 
